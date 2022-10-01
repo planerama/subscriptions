@@ -16,7 +16,7 @@
     "authors": [
         {
             "name": "The Generous Laravel Community",
-            "homepage": "https://github.com/rinvex/laravel-subscriptions/contributors"
+            "homepage": "https://github.com/planerama/subscriptions/contributors"
         }
     ],
     "require": {
